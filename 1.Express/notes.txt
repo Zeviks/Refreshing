@@ -1,0 +1,15 @@
+Express help us start servers , parse incoming requests, match those requests to particualr routes, craft http responce 
+
+
+
+Framework vs Library
+
+  Frameworks : These create the strucuture of your code, you have to abide by its rules, meaning youre not in control
+
+  Library : These you usually intergrate this at anypoint, prett much youre in control 
+
+
+--save This is only used on older versions of npm. Newer version got rid of this. 
+
+
+console.dir - This is used to list all of the methods in the library
