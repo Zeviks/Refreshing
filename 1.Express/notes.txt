@@ -13,3 +13,14 @@ Framework vs Library
 
 
 console.dir - This is used to list all of the methods in the library
+
+
+[Express]
+
+When creating a server we first need to install our library, and then we need to require it 
+
+The we set a variable that points at that require
+
+we can then use the .listen method to provide a port to listen to 
+
+we can then use the .use method to maintain the 
